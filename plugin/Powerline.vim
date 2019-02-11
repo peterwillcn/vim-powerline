@@ -1,7 +1,7 @@
 " Powerline - The ultimate statusline utility
 "
 " Author: Kim Silkebækken <kim.silkebaekken+vim@gmail.com>
-" Source repository: https://github.com/Lokaltog/vim-powerline
+" Source repository: https://github.com/peterwillcn/vim-powerline
 
 " Script initialization {{{
 	if exists('g:Powerline_loaded') || &compatible || version < 702
